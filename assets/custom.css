@@ -1,6 +1,6 @@
 :root {
-  --body-background-color: #f0f7f7;
-  --body-text-color: #002626;
+  --body-background-color: #ffffff;
+  --body-text-color: #242424;
   --card-background-color: #ffffff;
   --nav-background-color: #ffffff;
   --nav-border-bottom-color: #d8e8e4;
@@ -23,4 +23,8 @@
   --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
+}
+
+body, html {
+	font-family: "Poppins", sans-serif !important;
 }
