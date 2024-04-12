@@ -45,7 +45,9 @@ status-website:
 i18n:
   footer: >
     © 2024 Cloudback  
+    
     [support@cloudback.it](mailto:support@cloudback.it)  
+    
     This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
