@@ -42,11 +42,11 @@ status-website:
       href: https://cloudback.it
     - title: GitHub
       href: https://github.com/$OWNER/
-  i18n:
-    footer: >
-      © 2024 Cloudback  
-      [support@cloudback.it](mailto:support@cloudback.it)  
-      This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+i18n:
+  footer: >
+    © 2024 Cloudback  
+    [support@cloudback.it](mailto:support@cloudback.it)  
+    This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
