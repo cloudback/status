@@ -27,6 +27,7 @@
 
 body, html {
 	font-family: "Poppins", sans-serif !important;
+	padding-bottom: 0px !important;
 }
 
 header {
@@ -41,4 +42,9 @@ header {
 
 h1 {
 	font-size: 3em !important;
+}
+
+footer {
+	background-color: #f3f4f6;
+    padding: 16px;
 }
