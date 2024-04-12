@@ -20,6 +20,19 @@ assignees: # Users to assign downtime issues (optional)
   - arxange1
 
 status-website:
+  metaTags:
+    - name: "og:type"
+      content: "website"
+    - name: "og:title"
+      content: "Cloudback Status"
+    - name: "og:description"
+      content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
+    - name: "og:image"
+      content: "https://framerusercontent.com/images/AjNcufZGlRJ6GrC1bPajejWGUs.png"
+    - name: "og:url"
+      content: "https://cloudback.it/"
+    - name: "description"
+      content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
   themeUrl: https://docs.cloudback.it/status/custom.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
