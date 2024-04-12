@@ -28,3 +28,17 @@
 body, html {
 	font-family: "Poppins", sans-serif !important;
 }
+
+header {
+	min-height: 300px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    text-align: center !important;
+	background-image: url(https://docs.cloudback.it/status/grid.svg);
+    background-size: cover;
+}
+
+h1 {
+	font-size: 3em !important;
+}
