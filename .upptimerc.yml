@@ -44,10 +44,8 @@ status-website:
       href: https://github.com/$OWNER/
   i18n:
     footer: >
-      <div style="display: flex; flex-direction: row;">
-        <div>© 2024 Cloudback</div>
-        <div>support@cloudback.it</div>
-      </div>
+      © 2024 Cloudback  
+      [support@cloudback.it](mailto:support@cloudback.it)  
       This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
