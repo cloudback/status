@@ -5,8 +5,16 @@ repo: status # The name of this repository
 sites:
   - name: Cloudback Landing
     url: https://cloudback.it
-  - name: Cloudback Application
-    url: https://app.cloudback.it
+  - name: Cloudback Web Application
+    url: https://app.cloudback.it/health
+  - name: Cloudback Identity Server
+    url: https://app.cloudback.it/identity/health
+  - name: Cloudback Backend Service
+    url: https://app.cloudback.it/api/health
+  - name: Cloudback GitHub Service
+    url: https://app.cloudback.it/github/health
+  - name: Cloudback Workers
+    url: https://app.cloudback.it/health-deep
 
 assignees: # Users to assign downtime issues (optional)
   - arxange1
