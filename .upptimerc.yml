@@ -12,8 +12,7 @@ assignees: # Users to assign downtime issues (optional)
   - arxange1
 
 status-website:
-  theme: custom
-  themeUrl: https://docs.cloudback.it/status/themes/custom.css
+  themeUrl: https://docs.cloudback.it/status/custom.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: docs.cloudback.it
@@ -27,8 +26,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/
+    - title: Home
+      href: https://cloudback.it
     - title: GitHub
       href: https://github.com/$OWNER/
 
