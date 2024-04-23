@@ -58,19 +58,19 @@
     "url": "https://app.cloudback.it/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.cloudback.it.ico",
     "slug": "cloudback-backend-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 25,
-    "timeDay": 53,
-    "timeWeek": 28,
-    "timeMonth": 25,
-    "timeYear": 25,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 24,
+    "timeDay": 38,
+    "timeWeek": 26,
+    "timeMonth": 24,
+    "timeYear": 24,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 5
     }
   },
   {
