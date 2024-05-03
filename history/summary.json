@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cloudback.it.ico",
     "slug": "cloudback-web",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 184,
     "timeDay": 237,
     "timeWeek": 161,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2024-05-03": 0
+      "2024-05-03": 8
     }
   },
   {
@@ -98,17 +98,19 @@
     "url": "https://app.cloudback.it/health-workers",
     "icon": "https://icons.duckduckgo.com/ip3/app.cloudback.it.ico",
     "slug": "cloudback-workers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2240,
-    "timeDay": 2228,
-    "timeWeek": 2179,
-    "timeMonth": 2240,
-    "timeYear": 2240,
-    "dailyMinutesDown": {}
+    "time": 2167,
+    "timeDay": 1144,
+    "timeWeek": 1914,
+    "timeMonth": 2167,
+    "timeYear": 2167,
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   }
 ]
