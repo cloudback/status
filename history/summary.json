@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 271,
-    "timeWeek": 243,
+    "timeDay": 245,
+    "timeWeek": 225,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://app.cloudback.it/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.cloudback.it.ico",
     "slug": "cloudback-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 138,
-    "timeWeek": 176,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {}
+    "time": 184,
+    "timeDay": 237,
+    "timeWeek": 161,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   },
   {
     "name": "Cloudback Identity Server",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 27,
-    "timeDay": 9,
-    "timeWeek": 28,
-    "timeMonth": 27,
-    "timeYear": 27,
+    "time": 28,
+    "timeDay": 57,
+    "timeWeek": 25,
+    "timeMonth": 28,
+    "timeYear": 28,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 28,
-    "timeDay": 9,
-    "timeWeek": 28,
-    "timeMonth": 28,
-    "timeYear": 28,
+    "time": 29,
+    "timeDay": 56,
+    "timeWeek": 25,
+    "timeMonth": 29,
+    "timeYear": 29,
     "dailyMinutesDown": {
       "2024-04-23": 5
     }
@@ -84,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 25,
-    "timeDay": 7,
-    "timeWeek": 27,
-    "timeMonth": 25,
-    "timeYear": 25,
+    "time": 26,
+    "timeDay": 54,
+    "timeWeek": 23,
+    "timeMonth": 26,
+    "timeYear": 26,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2240,
-    "timeDay": 2164,
-    "timeWeek": 2173,
+    "timeDay": 2228,
+    "timeWeek": 2179,
     "timeMonth": 2240,
     "timeYear": 2240,
     "dailyMinutesDown": {}
