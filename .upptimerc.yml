@@ -11,8 +11,6 @@ sites:
     url: https://app.cloudback.it/identity/health
   - name: Cloudback Backend Service
     url: https://app.cloudback.it/api/health
-  - name: Cloudback GitHub Service
-    url: https://app.cloudback.it/github/health
   - name: Cloudback Workers
     url: https://app.cloudback.it/health-workers
 
