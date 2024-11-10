@@ -1,7 +1,7 @@
 url: https://app.cloudback.it/health-workers
-status: down
-code: 502
-responseTime: 76
-lastUpdated: 2024-11-10T17:47:10.071Z
+status: up
+code: 200
+responseTime: 2160
+lastUpdated: 2024-11-10T18:02:10.894Z
 startTime: 2024-04-12T11:14:03.815Z
 generator: Upptime <https://github.com/upptime/upptime>
