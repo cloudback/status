@@ -31,12 +31,12 @@ status-website:
       content: "https://cloudback.it/"
     - name: "description"
       content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
-  themeUrl: https://docs.cloudback.it/status/custom.css
+  themeUrl: https://status.cloudback.it/custom.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: docs.cloudback.it
+  cname: status.cloudback.it
   name: Cloudback Status Page
-  baseUrl: /status
+  # baseUrl: /
   customHeadHtml: > 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
