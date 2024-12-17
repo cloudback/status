@@ -26,7 +26,7 @@ status-website:
     - name: "og:description"
       content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
     - name: "og:image"
-      content: "https://framerusercontent.com/images/AjNcufZGlRJ6GrC1bPajejWGUs.png"
+      content: "https://raw.githubusercontent.com/cloudback/status/main/assets/social.png"
     - name: "og:url"
       content: "https://cloudback.it/"
     - name: "description"
