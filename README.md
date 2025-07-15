@@ -1,3 +1,5 @@
+[![Build Status](https://app.cloudback.it/badge/cloudback/status)](https://cloudback.it)
+
 # [📈 Live Status](https://cloudback.it): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Cloudback](https://cloudback.it), powered by [Upptime](https://github.com/upptime/upptime).
