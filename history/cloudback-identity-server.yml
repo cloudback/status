@@ -1,7 +1,7 @@
 url: https://app.cloudback.it/identity/health
-status: down
-code: 400
-responseTime: 20
-lastUpdated: 2025-12-04T08:55:14.706Z
+status: up
+code: 200
+responseTime: 324
+lastUpdated: 2025-12-04T09:06:08.178Z
 startTime: 2024-04-12T11:14:02.539Z
 generator: Upptime <https://github.com/upptime/upptime>
