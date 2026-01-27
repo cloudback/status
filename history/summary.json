@@ -14,7 +14,7 @@
     "timeDay": 249,
     "timeWeek": 225,
     "timeMonth": 270,
-    "timeYear": 280,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://app.cloudback.it/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.cloudback.it.ico",
     "slug": "cloudback-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -32,7 +32,7 @@
     "timeDay": 298,
     "timeWeek": 257,
     "timeMonth": 364,
-    "timeYear": 340,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2025-05-26": 333,
       "2025-03-03": 3
