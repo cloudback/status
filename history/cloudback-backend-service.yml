@@ -1,7 +1,7 @@
 url: https://app.cloudback.it/api/health
-status: down
-code: 502
-responseTime: 341
-lastUpdated: 2026-09-10T17:44:24.444Z
+status: up
+code: 200
+responseTime: 457
+lastUpdated: 2026-09-10T17:50:48.906Z
 startTime: 2024-04-12T11:14:02.950Z
 generator: Upptime <https://github.com/upptime/upptime>
